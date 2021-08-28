@@ -1,0 +1,6 @@
+datasets/
+__pycache__/
+logger/
+model/
+.ipynb_checkpoints/
+.DS_Store
